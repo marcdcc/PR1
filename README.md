@@ -39,7 +39,7 @@ Mira Deployment (Despliegue) para conocer como desplegar el proyecto.
 
 Pre-requisitos 📋
 Para este proyecto necesitas tener instalado:
-- Visual Studio Code
+_Visual Studio Code
 - XAMPP
 - MySQL Workbench 8.0 CE
 - Tener una cuenta creada en GitHub
