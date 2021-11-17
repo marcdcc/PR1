@@ -39,7 +39,7 @@ Mira Deployment (Despliegue) para conocer como desplegar el proyecto.
 
 Pre-requisitos 📋
 Para este proyecto necesitas tener instalado:
-_Visual Studio Code
+- Visual Studio Code
 - XAMPP
 - MySQL Workbench 8.0 CE
 - Tener una cuenta creada en GitHub
@@ -56,15 +56,15 @@ Despliegue 📦
 Agrega notas adicionales sobre como hacer deploy
 
 Construido con 🛠️
-XAMPP 
-Visual Studio Code
-GitHub
-infinityfree
+- XAMPP 
+- Visual Studio Code
+- GitHub
+- infinityfree
 
 Versionado 📌
-1.1.0
+- 1.1.0
 
 Autores ✒️
-Marc Diaz - BBDD y página de filtros
+- Marc Diaz - BBDD y página de filtros
 - Laura Fernandez - CSS, JS, y Login
 - Gerard Gomez - PHP
