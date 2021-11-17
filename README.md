@@ -61,7 +61,7 @@ Agrega notas adicionales sobre como hacer deploy
 * [XAMPP](https://www.apachefriends.org/es/index.html)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [GitHub](https://github.com)
-* [infinityfree](https://infinityfree.net/)
+* [000WebHost](https://es.000webhost.com/)
 
 ## Versionado 📌
 - 1.1.0
