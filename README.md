@@ -54,7 +54,20 @@ Para este proyecto necesitas tener instalado:
 - Sexto: En este momento ya tenemos nuestro proyecto subido al repositorio de GitHub
 
 ## Despliegue 📦
-Agrega notas adicionales sobre como hacer deploy
+Despliegue en local:
+- Cuando tenemos el XAMPP instalado, lo abrimos y activamos la opción que pone Apache (la carpeta que contiene todo el proyecto ha de estar en la ruta: C:\xampp\htdocs\www\).
+- Si ya tenemos nuestra carpeta del proyecto en la ruta especificada anteriormente, abrimos nuestro navegador y en la barra de busqueda tendremos de poner lo siguiente: http://localhost/www/"El nombre de la carpeta del proyecto"/.
+- Cuando le demos al Intro se nos abrira nuestro proyecto en local y podremos visualizar si hay alguna cosa que falla o si todo esta perfecto.
+
+Despligue en un hosting:
+- Primero nos creamos una cuenta en nuetro hosting.
+- Luego seleccionamos la opción de website y le ponemos un nombre.
+- A continuación se nos abrira una nueva pestaña en nuestro navegador y ahi es donde tendremos que cojer la carpeta de nuestro proyecto y arrastrala para poder verla desde una URL.
+- Cuando ya hemos pasado toda la carpeta tendremos que insertar nuestra base de datos. Donde le tendremos que poner un nombre a la base de datos, un usario y una contraseña.
+- Despues de eso nos dirigiremos a nuestro archivo que conecta nuestro proyecto con nuestra base de datos y cambiaremos el usuario, la contraseña y el nombre de la base de datos por los que le hemos puesto en el paso anterior.
+- Es posible que cuando abramos la URL de nuestro proyecto desde el hosting nos den errores de codigo y/o de nuestra base de datos. Los tendremos que arreglar.
+- Tras arreglar todos los errores, nos dirigiremos a la pestaña donde tenemos toda la configuración que le podemos poner a nuestra página web y veremos la URL del proyecto.
+- Si clicamos en la URL podremos visualizar que nuestro proyecto se ve y funciona correctamente desde el hosting.
 
 
 ## Construido con 🛠️
