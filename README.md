@@ -56,7 +56,7 @@ Para este proyecto necesitas tener instalado:
 ## Despliegue 📦
 Despliegue en local:
 - Cuando tenemos el XAMPP instalado, lo abrimos y activamos la opción que pone Apache (la carpeta que contiene todo el proyecto ha de estar en la ruta: C:\xampp\htdocs\www\).
-- Si ya tenemos nuestra carpeta del proyecto en la ruta especificada anteriormente, abrimos nuestro navegador y en la barra de busqueda tendremos de poner lo siguiente: http://localhost/www/"El nombre de la carpeta del proyecto"/.
+- Si ya tenemos nuestra carpeta del proyecto en la ruta especificada anteriormente, abrimos nuestro navegador y en la barra de busqueda tendremos de poner lo siguiente: http://localhost/www/ "El nombre de la carpeta del proyecto"/.
 - Cuando le demos al Intro se nos abrira nuestro proyecto en local y podremos visualizar si hay alguna cosa que falla o si todo esta perfecto.
 
 Despligue en un hosting:
